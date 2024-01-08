@@ -1,10 +1,8 @@
 # Detona-Ralph-Dio
 
-Para jogar clique [aqui](https://jclaion.github.io/Detona-Ralph-Dio/)
-
 ## Sobre o Jogo
 
- Juntamente com a [dio.me](https://www.dio.me) foi desenvolvido esse minigame, com intuito de aprender conceitos sobre HTML, CSS e JavaScript.
+ Juntamente com a [dio.me](https://www.dio.me) em seu bootcamp **Potência Tech iFood - Desenvolvimento de Jogos**, foi desenvolvido esse minigame, com intuito de aprender conceitos sobre HTML, CSS e JavaScript.
 
 ![View Game](./src/images/ScreenshotGameView.png)
 
