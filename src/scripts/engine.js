@@ -4,7 +4,7 @@ const state = {
         enemy: document.querySelector(".enemy"),
         timeLeft: document.querySelector("#time-left"),
         score: document.querySelector("#score"),
-        lives: document.querySelector("#lives"),
+        lives: document.querySelector("#lifes"),
 
     },
     values: {
